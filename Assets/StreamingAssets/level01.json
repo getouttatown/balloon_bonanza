@@ -1,0 +1,12 @@
+{
+    "levelId": 1,
+    "balloonCoords": {"x": -3.5, "y": 3.3, "z": 0.0},
+    "fanCoords": [
+        {"x": 0.1, "y": 0.75, "z": 0.0}
+    ],
+    "spikeCoords":[
+        {"x": -3.5, "y": -1.5, "z": 0.0}
+    ],
+    "crateCoords":[],
+    "goalCoords": {"x": 8.0, "y": -0.76, "z": 0.0}
+}
